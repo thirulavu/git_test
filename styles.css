@@ -1,0 +1,4 @@
+article::after{
+    font:700;
+    background-color: blue;
+}
